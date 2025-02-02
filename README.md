@@ -1,5 +1,5 @@
 # Nano33BLE-Gyroscope-Tilt-Detector
-This project focuses on the Arduino Nano 33 BLE Sense Rev2's 3-axis gyroscope sensor of the IMU system. The goal is to measures the tilt direction of the board. The Arduino IDE Serial Monitor will be used to print the return results after using the gyroscope's axis values to accomplish this.
+This project focuses on the Arduino Nano 33 BLE Sense Rev2's 3-axis gyroscope sensor of the IMU system. The goal is to measures the tilt direction of the board. The Arduino IDE Serial Monitor will be used to print the return results after using the gyroscope's axis values to accomplish this. Code available here: "https://github.com/GonzalezMada/Nano33BLE-Gyroscope-Tilt-Detector/blob/0bafc87973e273ab7348c746859314ade956e4e6/Gyroscope_Rev2.ino".
 
 The gyroscope is a component of the IMU sensor. The Arduino Nano 33 BLE Sense Rev2 features the BMI270 and BMM150 as its onboard IMU sensors. 
 IMU stands for "Inertial Measurement Unit." It is an electronic sensor that utilizes accelerometers, gyroscopes, and magnetometers to measure a body's specific force, angular rate, and orientation.
